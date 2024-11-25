@@ -14,7 +14,7 @@ const TalkButton = () => {
           {/* Download CV Button */}
           <Link
               className="app__filled_btn min-w-[10rem]"
-              href="https://drive.google.com/file/d/1Zt-KQy4kYEAgHPbNrQDsIJ7zJjuXE7vd/view?usp=sharing"
+              href="https://drive.google.com/file/d/1JDmBvULFRoaC4rdEwkKdOxYz5kU_MlgS/view?usp=sharing"
               target="_blank"
           >
               Download CV
