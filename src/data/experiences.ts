@@ -13,8 +13,6 @@ const experiences: IExperienceItem[] = [
       "Collaborating closely with cross-functional teams to ensure product quality.",
       "Adhering to clean code practices and modern development techniques.",
 "Serve as an expert on applications and provide technical support.",
-
-
 ],
   },
 
