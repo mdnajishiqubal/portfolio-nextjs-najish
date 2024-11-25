@@ -20,7 +20,7 @@ const experiences: IExperienceItem[] = [
     designation: "Software  Development Intern",
     company: "OIF TECH PVT LTD",
     startDate: "SEPT 2022",
-    endDate: "Jul 2022",
+endDate: "Jan 2024",
     isCurrentJob: false,
     location: "Bangalore",
     description: [
