@@ -17,7 +17,7 @@ designation: " Software Engineer ",
   },
 
   {
-designation: "Associate Software  Development",
+designation: "Associate Software Engineer",
     company: "OIF TECH PVT LTD",
     startDate: "SEPT 2022",
 endDate: "Jan 2024",
