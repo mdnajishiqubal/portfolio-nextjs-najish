@@ -62,11 +62,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/socket-io.png",
       },
-      // {
-      //   title: "Nest.js",
-      //   level: SkillLevel.Beginner,
-      //   icon: "/skills/nestjs.svg",
-      // },
+{
+title: "Nest.js",
+level: SkillLevel.Beginner,
+icon: "/skills/nestjs.svg",
+},
     ],
   },
 

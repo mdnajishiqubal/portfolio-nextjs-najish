@@ -6,7 +6,7 @@ id: "Techsocket Pvt Ltd",
 title: "Techsocket",
     description:
 "Techsocket makes running global teams simple.HR, Payroll, International Employment, contractor management and more.",
-icon: "/skills/react.svg",
+icon: "/skills/nestjs.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
 githubUrl: "https://github.com/TechSocket-India-private-limited/techsocket",
@@ -18,7 +18,7 @@ id: "Insure at Oasis",
 title: "OIF Tech",
     description:
 "A variety of insurance-specific solutions for quoting and proposals, comparison, client and policy management, commissions management, compliance management.",
-icon: "/skills/php.svg",
+icon: "/skills/flutter.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
 
