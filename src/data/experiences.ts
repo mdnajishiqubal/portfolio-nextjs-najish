@@ -2,7 +2,7 @@ import { IExperienceItem } from "@/types";
 
 const experiences: IExperienceItem[] = [
   {
-    designation: "Associate Software Engineer ",
+designation: " Software Engineer ",
     company: "Techsocket pvt ltd",
     startDate: "April 2024",
     isCurrentJob: true,
@@ -17,7 +17,7 @@ const experiences: IExperienceItem[] = [
   },
 
   {
-    designation: "Software  Development Intern",
+designation: "Associate Software  Development",
     company: "OIF TECH PVT LTD",
     startDate: "SEPT 2022",
 endDate: "Jan 2024",
