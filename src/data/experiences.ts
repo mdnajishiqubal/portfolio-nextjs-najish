@@ -12,7 +12,10 @@ const experiences: IExperienceItem[] = [
       "Contributing to large-scale projects with a focus on performance optimization.",
       "Collaborating closely with cross-functional teams to ensure product quality.",
       "Adhering to clean code practices and modern development techniques.",
-    ],
+"Serve as an expert on applications and provide technical support.",
+
+
+],
   },
 
   {
@@ -23,10 +26,12 @@ const experiences: IExperienceItem[] = [
     isCurrentJob: false,
     location: "Bangalore",
     description: [
-      "Revamped and enhanced 3+ mobile apps using Flutter.",
-      "Deployed RESTful APIs for seamless app-server integration.",
-      "Integrated Google AdMob to effectively monetize applications.",
-      "Contributed to boosting app functionality and revenue generation.",
+"Collaborate with internal teams to produce software design and architecture",
+"Test and deploy applications and systems.",
+"Revise, update, refactor and debug code.",
+"Improve existing software application.",
+"Monthly reports.",
+"Meeting both technical and Consumer needs.",
     ],
   },
 
